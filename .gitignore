@@ -1,0 +1,38 @@
+# ============ Entorno virtual de Python ============
+.venv/
+venv/
+env/
+
+# ============ Caché y artefactos de Python ============
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# ============ Datos generados / descargados ============
+# Imágenes descargadas de Street View / Mapillary (no se versionan)
+fachadas/
+# Carpeta extraída y zip de resultados de Colab
+resultado/
+resultado.zip
+# CSV generados por los scripts (se regeneran al ejecutar)
+puntos_descargados.csv
+diagnostico_facades.csv
+
+# ============ Banco de imágenes local (grande / derechos) ============
+# Las 73 fotos NO se suben a GitHub (peso ~250 MB y posibles derechos).
+# Añade tus propias imágenes localmente antes de ejecutar.
+banco_img/
+
+# ============ Informe (no se versiona: se entrega por canal académico) ============
+*.docx
+*.pdf
+generar_informe.py
+
+# ============ Sistema / editores ============
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
