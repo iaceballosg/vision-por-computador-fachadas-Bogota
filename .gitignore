@@ -30,6 +30,10 @@ banco_img/
 *.pdf
 generar_informe.py
 
+# ============ Documentos no versionados (se conservan en local) ============
+guia_colab.ipynb
+guion_video.md
+
 # ============ Sistema / editores ============
 .DS_Store
 Thumbs.db
