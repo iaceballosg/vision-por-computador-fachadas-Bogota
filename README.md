@@ -134,3 +134,10 @@ Este proyecto fue desarrollado con el apoyo de un asistente de IA generativa
 (DeepSeek / DeepSeek Harness) para la generación y depuración de código y de
 documentación. El diseño, la verificación de resultados y las decisiones
 finales corresponden al autor.
+
+El banco local de imágenes de fachadas proviene de Wikimedia Commons
+([Categoría "House facades in Bogotá"](https://commons.wikimedia.org/wiki/Category:House_facades_in_Bogot%C3%A1)).
+Se seleccionaron puntos de interés distribuidos en las localidades de Santa Fe,
+Teusaquillo y Chapinero sur, en la ciudad de Bogotá, conformando un banco local
+de 73 fotografías aportadas por los fotógrafos: Felipe Restrepo Acosta, Baiji,
+Robertocontrer, Marvin David Del Cid y Msorel.
